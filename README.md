@@ -2,7 +2,7 @@
 - 👀 I’m interested in econometrics
 - 🌱 I’m currently learning applied econometrics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me zhiruo.zhang@adelaide.edu.au
 
 <!---
 zzhrachel/zzhrachel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
