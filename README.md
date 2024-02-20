@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=%2338C2FF&amp;size=40&amp;center=true&amp;vCenter=true&amp;height=60&amp;width=600&amp;lines=Hello!+I'm+Zhiruo+Zhang+!;桃花流水窅然去，别有天地非人间" alt="Greeting">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=%2338C2FF&amp;size=40&amp;center=true&amp;vCenter=true&amp;height=60&amp;width=600&amp;lines=Hello!+I'm+Zhiruo+Zhang+!;张芷若，业余钢琴家！" alt="Greeting">
 </div>
 
 <h2 id="-about-me"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"> About Me</h2>
@@ -16,7 +16,11 @@
 - :sunglasses: **ENTP** here! I thrive on new ideas and love engaging conversations.
 
 <div align="center">
-  <em>"From small beginning come great things"</em>
+  <em>From small beginning come great things</em>
+</div>
+
+<div align="center">
+  <em>桃花流水窅然去，别有天地非人间 </em>
 </div>
 
 <h2 id="-some-languages-and-tools"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools</h2>
