@@ -44,9 +44,9 @@
  
 </p>
 <br>
-<div align="center">
-  <img src="https://github.com/zzhrachel/zzhrachel/blob/output/github-contribution-grid-snake.svg" alt="Snake Game Animation">
-</div>
+
+![Snake animation](https://github.com/zzhrachel/zzhrachel/blob/output/github-contribution-grid-snake.svg)
+
 <h2>🌟 Connect With Me 🌟</h2>
 <p align="center">
   <a href="mailto:zhiruo.zhang@adelaide.edu.au">
