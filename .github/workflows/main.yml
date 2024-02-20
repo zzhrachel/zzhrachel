@@ -1,27 +1,37 @@
 name: Generate snake game
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: '0 */12 * * *'  # Executes every 12 hours
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Jobs to update data
+  generate_snake_game:
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Sutil/snk@master
-        id: snake-gif
-        with:
-          github_user_name: zzhrachel # Changed to your username
-          svg_out_path: dist/github-contribution-grid-snake.svg # Change the output path if needed
-          snake_color: 'blue'
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      # Update to use the latest version that supports Node.js 20
-      - uses: crazy-max/ghaction-github-pages@latest_version
+      - name: Generate Snake Game Animations
+        uses: Platane/snk@v3
         with:
-          target_branch: output # You might want to change this to 'gh-pages' or another branch
+          github_user_name: zzhrachel
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+  deploy_to_github_pages:
+    needs: generate_snake_game
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.5.0  # Ensure to use the latest version that supports Node.js 20
+        with:
+          target_branch: output  # Change this to your target branch for GitHub Pages, if different
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
