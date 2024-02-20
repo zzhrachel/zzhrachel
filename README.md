@@ -13,7 +13,7 @@
 - :musical_keyboard: Outside academia, I find solace in music, being an avid yet humble pianist with a love for **Chopin** and **Liszt**.
 - :earth_asia: Living in **Adelaide, South Australia**.
 - :speech_balloon: Friends call me **Rachel** for convenience, but I cherish my name **Zhiruo** as it carries a melody of its own.
-- :sunglasses: **ENTP** here! I thrive on new ideas and love engaging conversations.
+- :sunglasses: **ENTP** is here! I thrive on new ideas and love engaging conversations.
 
 <div align="center">
   <em>From small beginning come great things</em>
