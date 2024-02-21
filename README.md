@@ -10,7 +10,7 @@
 
 - :mortar_board: I am **Zhiruo "Rachel" Zhang**, second-year PhD student in **Econometrics** at **The University of Adelaide**.
 - :chart_with_upwards_trend: My research around **Time Series Econometrics** and **Bayesian Econometrics**, exploring the rhythms and patterns within data.
-- :musical_keyboard: Outside academia, I find solace in music, being an avid yet humble pianist with a love for **Chopin** and **Liszt**.
+- :musical_keyboard: Outside academia, I've been a part-time pianist, beginning my journey at age three and cultivating a deep love for **Chopin** and **Liszt**.
 - :earth_asia: Living in **Adelaide, South Australia**.
 - :speech_balloon: Friends call me **Rachel** for convenience, but I cherish my name **Zhiruo** as it carries a melody of its own.
 - :sunglasses: **ENTP** is here! I thrive on new ideas and love engaging conversations.
