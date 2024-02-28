@@ -5,7 +5,7 @@
 <h2 id="-about-me"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"> About Me</h2>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right" alt="Zhiruo Zhang">
+  <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="380" align="right" alt="Zhiruo Zhang">
 </div>
 
 - :mortar_board: I am **Zhiruo "Rachel" Zhang**, second-year PhD student in **Econometrics** at **The University of Adelaide**.
