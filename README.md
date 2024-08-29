@@ -22,7 +22,7 @@ Apart from my academic pursuits, I'm a passionate pianist. Having started at age
 
 ### 💬 A Bit More Personal
 - Friends often call me **Rachel** for convenience.
-- As an **ENTP**high on Openness to Experience, I thrive on exploring new ideas and constantly seek stimulating and creative experiences.
+- As an **ENTP** high on Openness to Experience, I thrive on exploring new ideas and constantly seek stimulating and creative experiences.
 
 ### 🏸 Active and Engaged
 In my free time, I enjoy **badminton**, **swimming**, and **hiking**.
