@@ -8,12 +8,30 @@
   <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="350" align="right" alt="Zhiruo Zhang">
 </div>
 
-- :mortar_board: I am **Zhiruo "Rachel" Zhang**, second-year PhD student in **Econometrics** at **The University of Adelaide**.
-- :chart_with_upwards_trend: My research around **Time Series Econometrics** and **Bayesian Econometrics**, exploring the rhythms and patterns within data.
-- :musical_keyboard: Outside academia, I've been a part-time pianist, beginning my journey at age three and cultivating a deep love for **Chopin** and **Liszt**.
-- :earth_asia: Living in **Adelaide, South Australia**.
-- :speech_balloon: Friends call me **Rachel** for convenience, but I cherish my name **Zhiruo** as it carries a melody of its own.
-- :sunglasses: **ENTP** is here! I thrive on new ideas and love engaging conversations.
+### 👋 Hi there! I’m Zhiruo "Rachel" Zhang
+I’m a second-year PhD student in **Econometrics** at **The University of Adelaide**. My research focuses on **Time Series Econometrics** and **Bayesian Econometrics**, where I explore the rhythms and patterns within data.
+
+### 📈 Research Interests
+- **Time Series Econometrics**
+- **Bayesian Econometrics**
+
+### 🎹 Music and More
+Apart from my academic pursuits, I'm a passionate pianist. Having started at age three, have a deep appreciation for the works of **Chopin** and **Liszt**.
+
+### 🌏 Based in Adelaide, South Australia
+
+### 💬 A Bit More Personal
+- Friends often call me **Rachel** for convenience.
+- As an **ENTP**high on Openness to Experience, I thrive on exploring new ideas and constantly seek stimulating and creative experiences.
+
+### 🏸 Active and Engaged
+In my free time, I enjoy **badminton**, **swimming**, and **hiking**.
+
+### 🧱 Creative Builder
+I also take pleasure in building with **LEGO**, a playful and creative outlet that provides a balance to my structured academic life.
+
+
+
 
 <div align="center">
   <em>From small beginning come great things</em>
