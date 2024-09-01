@@ -16,7 +16,8 @@ I’m a second-year PhD student in **Econometrics** at **The University of Adela
 - **Bayesian Econometrics**
 
 ### 🎹 Music and More
-Apart from my academic pursuits, I'm a passionate pianist. Having started at age three, have a deep appreciation for the works of **Chopin** and **Liszt**.
+- Apart from my academic pursuits, I'm a passionate pianist. Having started at age three, have a deep appreciation for the works of **Chopin** and **Liszt**.
+- Love **Imagine Dragons** and **The Script**
 
 ### 🌏 Based in Adelaide, South Australia
 
