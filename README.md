@@ -69,9 +69,9 @@ I also take pleasure in building with **LEGO**, a playful and creative outlet th
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzhrachel/zzhrachel/output/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zzhrachel/zzhrachel/output/dist/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/zzhrachel/zzhrachel/output/dist/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zzhrachel/zzhrachel/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://gith.com/zzhrachel/zzhrachel/output/dist/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://github.com/zzhrachel/zzhrachel/output/dist/github-contribution-grid-snake.svg">
 </picture>
 
 
