@@ -9,7 +9,7 @@
 </div>
 
 ### 👋 Hi there! I’m Zhiruo "Rachel" Zhang
-I’m a second-year PhD student in **Econometrics** at **The University of Adelaide**. My research focuses on **Time Series Econometrics** and **Bayesian Econometrics**, where I explore the rhythms and patterns within data.
+I’m a third-year PhD student in **Econometrics** at **The University of Adelaide**. My research focuses on **Time Series Econometrics** and **Bayesian Econometrics**, where I explore the rhythms and patterns within data.
 
 ### 📈 Research Interests
 - **Time Series Econometrics**
