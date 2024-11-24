@@ -8,7 +8,7 @@
   <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="350" align="right" alt="Zhiruo Zhang">
 </div>
 
-### 👋 Hi there! I’m Zhiruo "Rachel" Zhang
+### 👋 Hi there! I’m Zhiruo Rachel Zhang
 I’m a third-year PhD student in **Econometrics** at **The University of Adelaide**. My research focuses on **Time Series Econometrics** and **Bayesian Econometrics**, where I explore the rhythms and patterns within data.
 
 ### 📈 Research Interests
